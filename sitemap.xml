@@ -2,6 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hcy.asia/singer2018/</loc>
+    
+    <lastmod>2020-06-07T04:17:15.347Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/albums/</loc>
+    
+    <lastmod>2020-06-07T04:07:02.103Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/02-01-care/</loc>
+    
+    <lastmod>2020-06-07T03:57:18.018Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/fakemonk/</loc>
+    
+    <lastmod>2020-06-07T03:56:35.456Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/04-13-jackdaw/</loc>
+    
+    <lastmod>2020-06-07T03:55:29.512Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/04-11-wukong/</loc>
+    
+    <lastmod>2020-06-07T03:55:00.693Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/singer-child/</loc>
+    
+    <lastmod>2020-06-07T03:54:32.249Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/singer-firebomb/</loc>
+    
+    <lastmod>2020-06-07T03:54:13.989Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/singer-yamaumi/</loc>
+    
+    <lastmod>2020-06-07T03:53:54.134Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/singer-normalroad/</loc>
+    
+    <lastmod>2020-06-07T03:53:33.370Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/singer-iamwhatiam/</loc>
+    
+    <lastmod>2020-06-07T03:53:10.459Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/singer-lightyear/</loc>
+    
+    <lastmod>2020-06-07T03:52:45.106Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/singer-shout/</loc>
+    
+    <lastmod>2020-06-07T03:52:17.045Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/01-02-Shimmer/</loc>
+    
+    <lastmod>2020-06-07T03:51:41.629Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/01-04-fireworks/</loc>
+    
+    <lastmod>2020-06-07T03:51:17.621Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/02-02-king/</loc>
+    
+    <lastmod>2020-06-07T03:50:50.466Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/04-03-madhouse/</loc>
+    
+    <lastmod>2020-06-07T03:49:44.334Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/04-04-marschild/</loc>
+    
+    <lastmod>2020-06-07T03:48:56.039Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/04-01-bullfight/</loc>
+    
+    <lastmod>2020-06-07T03:48:14.827Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/singer-nunchuck/</loc>
+    
+    <lastmod>2020-06-07T03:46:11.359Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hcy.asia/mrzz3/</loc>
     
     <lastmod>2020-06-06T16:45:09.000Z</lastmod>
@@ -128,23 +268,9 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/01-02-Shimmer/</loc>
-    
-    <lastmod>2020-06-06T09:45:09.324Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/next1-9-firebomb/</loc>
     
     <lastmod>2020-06-06T05:30:19.147Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/singer-firebomb/</loc>
-    
-    <lastmod>2020-06-06T04:06:11.746Z</lastmod>
     
   </url>
   
@@ -191,13 +317,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/04-03-madhouse/</loc>
-    
-    <lastmod>2020-06-05T12:49:30.220Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/singer-wgboy/</loc>
     
     <lastmod>2020-06-05T12:37:15.590Z</lastmod>
@@ -233,13 +352,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/04-01-bullfight/</loc>
-    
-    <lastmod>2020-06-05T06:59:57.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/04-07-arrival/</loc>
     
     <lastmod>2020-06-05T05:36:58.000Z</lastmod>
@@ -254,100 +366,9 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/04-13-jackdaw/</loc>
-    
-    <lastmod>2020-06-05T04:53:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/04-11-wukong/</loc>
-    
-    <lastmod>2020-06-05T04:25:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/02-07-zoo/</loc>
     
     <lastmod>2020-06-05T04:15:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/albums/</loc>
-    
-    <lastmod>2020-06-05T04:11:07.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/02-01-care/</loc>
-    
-    <lastmod>2020-06-05T02:12:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/fakemonk/</loc>
-    
-    <lastmod>2020-06-05T00:38:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/singer-shout/</loc>
-    
-    <lastmod>2020-06-04T13:54:56.106Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/singer-lightyear/</loc>
-    
-    <lastmod>2020-06-04T13:35:57.074Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/singer-iamwhatiam/</loc>
-    
-    <lastmod>2020-06-04T12:50:05.973Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/singer-child/</loc>
-    
-    <lastmod>2020-06-04T12:35:25.932Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/singer-normalroad/</loc>
-    
-    <lastmod>2020-06-04T12:35:18.774Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/singer-nunchuck/</loc>
-    
-    <lastmod>2020-06-04T12:35:15.732Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/singer-yamaumi/</loc>
-    
-    <lastmod>2020-06-04T12:35:09.013Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/singer2018/</loc>
-    
-    <lastmod>2020-06-04T12:31:22.987Z</lastmod>
     
   </url>
   
@@ -499,13 +520,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/01-04-fireworks/</loc>
-    
-    <lastmod>2020-06-02T03:29:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/01-09-quasimodo/</loc>
     
     <lastmod>2020-06-02T03:29:26.000Z</lastmod>
@@ -527,13 +541,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/02-02-king/</loc>
-    
-    <lastmod>2020-06-02T03:29:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/03-02-deer/</loc>
     
     <lastmod>2020-06-02T03:29:26.000Z</lastmod>
@@ -549,13 +556,6 @@
   
   <url>
     <loc>http://hcy.asia/03-01-hwa/</loc>
-    
-    <lastmod>2020-06-02T03:29:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/04-04-marschild/</loc>
     
     <lastmod>2020-06-02T03:29:26.000Z</lastmod>
     
