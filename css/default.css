@@ -412,13 +412,13 @@ button,
 input,
 select,
 textarea {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif;
+  font-family: Ubuntu, Roboto, 'Open Sans', 'Noto Sans Japanese', sans-serif;
 }
 code,
 pre {
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: auto;
-  font-family: 'Source Code Pro', monospace, 'Microsoft YaHei';
+  font-family: 'Source Code Pro', monospace, 'Noto Sans Japanese';
 }
 body {
   color: #4a4a4a;
@@ -1057,19 +1057,19 @@ a.has-text-grey-lightest:focus {
   font-weight: 700 !important;
 }
 .is-family-primary {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: Ubuntu, Roboto, 'Open Sans', 'Noto Sans Japanese', sans-serif !important;
 }
 .is-family-secondary {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: Ubuntu, Roboto, 'Open Sans', 'Noto Sans Japanese', sans-serif !important;
 }
 .is-family-sans-serif {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: Ubuntu, Roboto, 'Open Sans', 'Noto Sans Japanese', sans-serif !important;
 }
 .is-family-monospace {
   font-family: monospace !important;
 }
 .is-family-code {
-  font-family: 'Source Code Pro', monospace, 'Microsoft YaHei' !important;
+  font-family: 'Source Code Pro', monospace, 'Noto Sans Japanese' !important;
 }
 .is-block {
   display: block !important;
@@ -10814,19 +10814,6 @@ article.article .content .message.message-immersive .message-body {
 .table-overflow table th {
   word-break: keep-all;
 }
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 25px;
-  height: 0;
-}
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
 .navbar-main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
@@ -11176,7 +11163,7 @@ figure.highlight figcaption * {
 }
 figure.highlight figcaption span {
   font-weight: 500;
-  font-family: 'Source Code Pro', monospace, 'Microsoft YaHei';
+  font-family: 'Source Code Pro', monospace, 'Noto Sans Japanese';
 }
 figure.highlight figcaption .level-left *:not(:last-child) {
   margin-right: 0.5em;
