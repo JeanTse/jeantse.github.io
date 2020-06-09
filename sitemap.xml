@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hcy.asia/magazine/</loc>
+    
+    <lastmod>2020-06-09T13:19:11.821Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/singwithme/</loc>
+    
+    <lastmod>2020-06-09T13:10:27.798Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/marsconcert2015/</loc>
+    
+    <lastmod>2020-06-09T10:46:52.459Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/marsconcert2014/</loc>
+    
+    <lastmod>2020-06-09T10:46:42.410Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hcy.asia/singer-iamwhatiam/</loc>
     
     <lastmod>2020-06-09T02:33:52.426Z</lastmod>
@@ -205,13 +233,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/magazine/</loc>
-    
-    <lastmod>2020-06-08T13:57:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/marsconcert/</loc>
     
     <lastmod>2020-06-08T13:57:06.000Z</lastmod>
@@ -219,23 +240,9 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/marsconcert2015/</loc>
-    
-    <lastmod>2020-06-08T13:56:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/marsconcert2016/</loc>
     
     <lastmod>2020-06-08T13:56:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/marsconcert2014/</loc>
-    
-    <lastmod>2020-06-08T13:56:14.000Z</lastmod>
     
   </url>
   
