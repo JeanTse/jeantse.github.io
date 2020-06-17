@@ -2,6 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hcy.asia/news/</loc>
+    
+    <lastmod>2020-06-17T05:16:09.888Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/magazine/</loc>
+    
+    <lastmod>2020-06-17T05:15:34.827Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/allmusicdata/</loc>
+    
+    <lastmod>2020-06-16T07:29:02.489Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/banshengyuan/</loc>
+    
+    <lastmod>2020-06-16T07:26:00.187Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/next2/</loc>
+    
+    <lastmod>2020-06-16T07:18:55.722Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/hcy148/</loc>
+    
+    <lastmod>2020-06-16T07:00:02.888Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/acevsace4/</loc>
+    
+    <lastmod>2020-06-16T06:56:46.505Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/hcy-bio/</loc>
+    
+    <lastmod>2020-06-16T06:35:40.786Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/marsconcert/</loc>
+    
+    <lastmod>2020-06-16T06:28:11.341Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/marsconcert2019/</loc>
+    
+    <lastmod>2020-06-16T06:26:15.357Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hcy.asia/singer-wildcontra/</loc>
     
     <lastmod>2020-06-15T09:03:54.145Z</lastmod>
@@ -33,13 +103,6 @@
     <loc>http://hcy.asia/04-09-xun/</loc>
     
     <lastmod>2020-06-15T09:02:49.061Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/news/</loc>
-    
-    <lastmod>2020-06-15T08:58:41.431Z</lastmod>
     
   </url>
   
@@ -100,13 +163,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/next2/</loc>
-    
-    <lastmod>2020-06-15T08:54:27.843Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/next1-12-perhapslove/</loc>
     
     <lastmod>2020-06-15T08:54:27.810Z</lastmod>
@@ -145,13 +201,6 @@
     <loc>http://hcy.asia/mrzz1/</loc>
     
     <lastmod>2020-06-15T08:54:27.645Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/marsconcert2019/</loc>
-    
-    <lastmod>2020-06-15T08:54:27.612Z</lastmod>
     
   </url>
   
@@ -380,20 +429,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/allmusicdata/</loc>
-    
-    <lastmod>2020-06-15T04:51:00.727Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/hcy-bio/</loc>
-    
-    <lastmod>2020-06-15T04:49:07.202Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/acevsace5/</loc>
     
     <lastmod>2020-06-15T04:49:05.813Z</lastmod>
@@ -432,20 +467,6 @@
     <loc>http://hcy.asia/flowertrip/</loc>
     
     <lastmod>2020-06-14T07:48:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/hcy148/</loc>
-    
-    <lastmod>2020-06-14T03:19:06.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/acevsace4/</loc>
-    
-    <lastmod>2020-06-13T11:34:27.000Z</lastmod>
     
   </url>
   
@@ -590,13 +611,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/banshengyuan/</loc>
-    
-    <lastmod>2020-06-13T08:03:31.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/mrzz2/</loc>
     
     <lastmod>2020-06-13T07:40:11.000Z</lastmod>
@@ -702,13 +716,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/magazine/</loc>
-    
-    <lastmod>2020-06-09T13:19:11.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/2013boy-somebody/</loc>
     
     <lastmod>2020-06-09T02:33:52.286Z</lastmod>
@@ -733,13 +740,6 @@
     <loc>http://hcy.asia/liveevent2017/</loc>
     
     <lastmod>2020-06-08T14:09:27.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/marsconcert/</loc>
-    
-    <lastmod>2020-06-08T13:57:06.000Z</lastmod>
     
   </url>
   
