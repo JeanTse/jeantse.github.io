@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hcy.asia/magazine/</loc>
+    
+    <lastmod>2020-06-20T08:35:37.869Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/about/</loc>
+    
+    <lastmod>2020-06-20T08:27:51.786Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hcy.asia/tripandsing/</loc>
     
-    <lastmod>2020-06-20T01:54:01.765Z</lastmod>
+    <lastmod>2020-06-20T08:18:39.437Z</lastmod>
     
   </url>
   
@@ -114,13 +128,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/magazine/</loc>
-    
-    <lastmod>2020-06-19T04:28:17.541Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/banshengyuan/</loc>
     
     <lastmod>2020-06-19T04:16:43.874Z</lastmod>
@@ -201,13 +208,6 @@
     <loc>http://hcy.asia/01-05-bomb/</loc>
     
     <lastmod>2020-06-18T04:05:19.943Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/about/</loc>
-    
-    <lastmod>2020-06-18T03:06:09.557Z</lastmod>
     
   </url>
   
