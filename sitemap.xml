@@ -2,23 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hcy.asia/magazineold/</loc>
+    <loc>http://hcy.asia/magazine/</loc>
     
-    <lastmod>2020-06-22T06:40:00.572Z</lastmod>
+    <lastmod>2020-06-23T12:09:39.031Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://hcy.asia/magazine/</loc>
+    <loc>http://hcy.asia/magazine19/</loc>
     
-    <lastmod>2020-06-22T02:56:34.000Z</lastmod>
+    <lastmod>2020-06-23T12:05:13.199Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/magazine17/</loc>
+    
+    <lastmod>2020-06-23T11:58:41.530Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/magazine14/</loc>
+    
+    <lastmod>2020-06-23T11:37:05.863Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://hcy.asia/about/</loc>
     
-    <lastmod>2020-06-21T10:45:00.678Z</lastmod>
+    <lastmod>2020-06-23T11:33:40.213Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/cm/</loc>
+    
+    <lastmod>2020-06-23T09:54:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/01-10-pillow/</loc>
+    
+    <lastmod>2020-06-23T06:18:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/mrzz2/</loc>
+    
+    <lastmod>2020-06-22T14:45:55.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/hcy148/</loc>
+    
+    <lastmod>2020-06-22T14:45:03.000Z</lastmod>
     
   </url>
   
@@ -61,13 +103,6 @@
     <loc>http://hcy.asia/liveevent2018/</loc>
     
     <lastmod>2020-06-20T13:14:36.624Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/hcy148/</loc>
-    
-    <lastmod>2020-06-20T10:05:43.347Z</lastmod>
     
   </url>
   
@@ -604,13 +639,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/cm/</loc>
-    
-    <lastmod>2020-06-13T10:28:30.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/02-11-giant/</loc>
     
     <lastmod>2020-06-13T10:03:38.000Z</lastmod>
@@ -635,13 +663,6 @@
     <loc>http://hcy.asia/02-03-mayfly/</loc>
     
     <lastmod>2020-06-13T10:03:15.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/01-10-pillow/</loc>
-    
-    <lastmod>2020-06-13T10:02:17.000Z</lastmod>
     
   </url>
   
@@ -677,13 +698,6 @@
     <loc>http://hcy.asia/single-spring/</loc>
     
     <lastmod>2020-06-13T09:15:27.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/mrzz2/</loc>
-    
-    <lastmod>2020-06-13T07:40:11.000Z</lastmod>
     
   </url>
   
