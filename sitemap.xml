@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hcy.asia/fanart/</loc>
+    
+    <lastmod>2020-06-24T02:48:28.280Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hcy.asia/hcy-bio/</loc>
     
     <lastmod>2020-06-23T12:46:35.481Z</lastmod>
@@ -929,13 +936,6 @@
     <loc>http://hcy.asia/single-mia/</loc>
     
     <lastmod>2020-06-02T03:29:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/gallery/</loc>
-    
-    <lastmod>2020-06-01T14:52:02.907Z</lastmod>
     
   </url>
   
