@@ -2,6 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hcy.asia/04-14-candle/</loc>
+    
+    <lastmod>2020-06-27T12:18:59.766Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/03-05-loneliness/</loc>
+    
+    <lastmod>2020-06-27T12:06:32.966Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/04-11-wukong/</loc>
+    
+    <lastmod>2020-06-27T11:35:46.271Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/liveevent2019/</loc>
+    
+    <lastmod>2020-06-27T11:25:48.521Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/03-02-deer/</loc>
+    
+    <lastmod>2020-06-27T11:15:02.942Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/03-07-creator/</loc>
+    
+    <lastmod>2020-06-27T11:14:51.444Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/03-03-tbf/</loc>
+    
+    <lastmod>2020-06-27T11:14:39.817Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/03-04-forever/</loc>
+    
+    <lastmod>2020-06-27T11:14:25.039Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/03-06-yesterday/</loc>
+    
+    <lastmod>2020-06-27T11:14:12.549Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/02-02-king/</loc>
+    
+    <lastmod>2020-06-27T11:11:45.062Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/02-04-antonym/</loc>
+    
+    <lastmod>2020-06-27T11:11:27.214Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/02-03-mayfly/</loc>
+    
+    <lastmod>2020-06-27T11:10:47.510Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hcy.asia/single-cancer/</loc>
     
     <lastmod>2020-06-27T10:01:40.249Z</lastmod>
@@ -254,13 +338,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/liveevent2019/</loc>
-    
-    <lastmod>2020-06-27T06:12:02.379Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/liveevent2018/</loc>
     
     <lastmod>2020-06-27T06:12:02.317Z</lastmod>
@@ -352,13 +429,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/04-11-wukong/</loc>
-    
-    <lastmod>2020-06-27T03:31:28.326Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/02-01-care/</loc>
     
     <lastmod>2020-06-27T03:20:33.303Z</lastmod>
@@ -369,13 +439,6 @@
     <loc>http://hcy.asia/singer-shout/</loc>
     
     <lastmod>2020-06-27T03:11:25.365Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/02-02-king/</loc>
-    
-    <lastmod>2020-06-27T03:10:31.488Z</lastmod>
     
   </url>
   
@@ -411,20 +474,6 @@
     <loc>http://hcy.asia/01-01-wnf/</loc>
     
     <lastmod>2020-06-27T03:10:30.967Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/02-03-mayfly/</loc>
-    
-    <lastmod>2020-06-27T03:09:45.566Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/02-04-antonym/</loc>
-    
-    <lastmod>2020-06-27T03:09:42.438Z</lastmod>
     
   </url>
   
@@ -499,48 +548,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/03-02-deer/</loc>
-    
-    <lastmod>2020-06-27T03:08:13.692Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/03-03-tbf/</loc>
-    
-    <lastmod>2020-06-27T03:08:11.523Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/03-04-forever/</loc>
-    
-    <lastmod>2020-06-27T03:08:09.588Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/03-05-loneliness/</loc>
-    
-    <lastmod>2020-06-27T03:08:07.482Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/03-06-yesterday/</loc>
-    
-    <lastmod>2020-06-27T03:08:04.498Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/03-07-creator/</loc>
-    
-    <lastmod>2020-06-27T03:08:02.506Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/03-08-skateshoes/</loc>
     
     <lastmod>2020-06-27T03:07:59.458Z</lastmod>
@@ -572,13 +579,6 @@
     <loc>http://hcy.asia/04-12-250/</loc>
     
     <lastmod>2020-06-27T03:07:29.726Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/04-14-candle/</loc>
-    
-    <lastmod>2020-06-27T03:07:25.631Z</lastmod>
     
   </url>
   
