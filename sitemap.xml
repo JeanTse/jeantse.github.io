@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hcy.asia/marsconcert/</loc>
+    <loc>http://hcy.asia/marsconcert2018/</loc>
     
-    <lastmod>2020-07-06T04:35:14.398Z</lastmod>
+    <lastmod>2020-07-08T03:30:23.816Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/03-04-forever/</loc>
+    
+    <lastmod>2020-07-08T03:30:12.505Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/01-01-wnf/</loc>
+    
+    <lastmod>2020-07-06T07:08:48.077Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/hcy-bio/</loc>
+    
+    <lastmod>2020-07-06T06:37:20.905Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://hcy.asia/hcy-8g/</loc>
     
-    <lastmod>2020-07-06T04:35:13.315Z</lastmod>
+    <lastmod>2020-07-06T05:50:49.147Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/marsconcert/</loc>
+    
+    <lastmod>2020-07-06T04:35:14.398Z</lastmod>
     
   </url>
   
@@ -268,13 +296,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/marsconcert2018/</loc>
-    
-    <lastmod>2020-06-27T12:57:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/marsconcert2019/</loc>
     
     <lastmod>2020-06-27T12:57:33.000Z</lastmod>
@@ -313,13 +334,6 @@
     <loc>http://hcy.asia/03-03-tbf/</loc>
     
     <lastmod>2020-06-27T11:14:39.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/03-04-forever/</loc>
-    
-    <lastmod>2020-06-27T11:14:25.000Z</lastmod>
     
   </url>
   
@@ -551,13 +565,6 @@
     <loc>http://hcy.asia/01-10-pillow/</loc>
     
     <lastmod>2020-06-27T03:10:31.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/01-01-wnf/</loc>
-    
-    <lastmod>2020-06-27T03:10:30.000Z</lastmod>
     
   </url>
   
@@ -915,13 +922,6 @@
     <loc>http://hcy.asia/marsconcert2016/</loc>
     
     <lastmod>2020-06-26T11:48:35.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/hcy-bio/</loc>
-    
-    <lastmod>2020-06-26T06:45:22.000Z</lastmod>
     
   </url>
   
