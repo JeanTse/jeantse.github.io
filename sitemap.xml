@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hcy.asia/about/</loc>
+    
+    <lastmod>2020-07-09T06:29:13.680Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hcy.asia/hcy-fan/</loc>
     
     <lastmod>2020-07-09T06:26:22.006Z</lastmod>
@@ -313,13 +320,6 @@
     <loc>http://hcy.asia/04-14-candle/</loc>
     
     <lastmod>2020-06-28T02:25:29.513Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/about/</loc>
-    
-    <lastmod>2020-06-28T02:23:02.957Z</lastmod>
     
   </url>
   
