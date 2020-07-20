@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hcy.asia/cm/</loc>
+    
+    <lastmod>2020-07-20T05:15:19.894Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/news/</loc>
+    
+    <lastmod>2020-07-20T05:14:09.590Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hcy.asia/acevsace4/</loc>
     
     <lastmod>2020-07-16T03:23:04.594Z</lastmod>
@@ -380,13 +394,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/cm/</loc>
-    
-    <lastmod>2020-06-28T02:22:38.088Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/liveevent2020/</loc>
     
     <lastmod>2020-06-28T02:22:25.823Z</lastmod>
@@ -614,13 +621,6 @@
     <loc>http://hcy.asia/cm-sprite/</loc>
     
     <lastmod>2020-06-27T08:43:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/news/</loc>
-    
-    <lastmod>2020-06-27T06:37:32.000Z</lastmod>
     
   </url>
   
