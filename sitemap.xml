@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hcy.asia/marsconcert2016/</loc>
+    
+    <lastmod>2020-08-07T03:12:30.535Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hcy.asia/news/</loc>
     
     <lastmod>2020-08-07T02:47:04.987Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://hcy.asia/01-04-fireworks/</loc>
     
     <lastmod>2020-08-07T02:24:01.960Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/marsconcert2016/</loc>
-    
-    <lastmod>2020-08-07T02:20:41.526Z</lastmod>
     
   </url>
   
@@ -499,14 +499,14 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/marsconcert2017/</loc>
+    <loc>http://hcy.asia/marsconcert2019/</loc>
     
     <lastmod>2020-06-27T12:57:33.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://hcy.asia/marsconcert2019/</loc>
+    <loc>http://hcy.asia/marsconcert2017/</loc>
     
     <lastmod>2020-06-27T12:57:33.000Z</lastmod>
     
@@ -702,6 +702,13 @@
   </url>
   
   <url>
+    <loc>http://hcy.asia/01-10-pillow/</loc>
+    
+    <lastmod>2020-06-27T03:10:31.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hcy.asia/01-05-bomb/</loc>
     
     <lastmod>2020-06-27T03:10:31.000Z</lastmod>
@@ -709,9 +716,9 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/01-10-pillow/</loc>
+    <loc>http://hcy.asia/01-03-lyg/</loc>
     
-    <lastmod>2020-06-27T03:10:31.000Z</lastmod>
+    <lastmod>2020-06-27T03:09:16.000Z</lastmod>
     
   </url>
   
@@ -738,13 +745,6 @@
   
   <url>
     <loc>http://hcy.asia/02-06-utopia/</loc>
-    
-    <lastmod>2020-06-27T03:09:16.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/01-03-lyg/</loc>
     
     <lastmod>2020-06-27T03:09:16.000Z</lastmod>
     
