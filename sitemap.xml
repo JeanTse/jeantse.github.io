@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hcy.asia/hoshiasia/</loc>
+    
+    <lastmod>2020-08-19T09:23:11.830Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hcy.asia/about/</loc>
     
     <lastmod>2020-08-19T09:02:37.471Z</lastmod>
@@ -117,13 +124,6 @@
     <loc>http://hcy.asia/variety-baby/</loc>
     
     <lastmod>2020-08-18T05:54:57.675Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/hoshiasia/</loc>
-    
-    <lastmod>2020-08-18T05:54:57.656Z</lastmod>
     
   </url>
   
