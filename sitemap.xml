@@ -2,16 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hcy.asia/singkids/</loc>
+    <loc>http://hcy.asia/2013boy-somebody/</loc>
     
-    <lastmod>2020-08-20T09:13:00.788Z</lastmod>
+    <lastmod>2020-08-25T07:59:15.726Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://hcy.asia/about/</loc>
     
-    <lastmod>2020-08-20T09:08:09.838Z</lastmod>
+    <lastmod>2020-08-25T07:56:57.603Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/liveevent2015/</loc>
+    
+    <lastmod>2020-08-25T07:53:47.925Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/liveevent2013/</loc>
+    
+    <lastmod>2020-08-25T07:48:27.549Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/01-02-shimmer/</loc>
+    
+    <lastmod>2020-08-25T02:12:54.875Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/arttoy/</loc>
+    
+    <lastmod>2020-08-24T01:54:26.551Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/singkids/</loc>
+    
+    <lastmod>2020-08-20T09:13:00.788Z</lastmod>
     
   </url>
   
@@ -86,13 +121,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/liveevent2013/</loc>
-    
-    <lastmod>2020-08-20T04:31:42.900Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/next2/</loc>
     
     <lastmod>2020-08-20T04:13:09.264Z</lastmod>
@@ -103,13 +131,6 @@
     <loc>http://hcy.asia/news/</loc>
     
     <lastmod>2020-08-20T03:17:29.207Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/arttoy/</loc>
-    
-    <lastmod>2020-08-20T03:11:06.083Z</lastmod>
     
   </url>
   
@@ -751,20 +772,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/liveevent2015/</loc>
-    
-    <lastmod>2020-06-27T06:12:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/01-02-shimmer/</loc>
-    
-    <lastmod>2020-06-27T03:47:07.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/singer-shout/</loc>
     
     <lastmod>2020-06-27T03:11:25.000Z</lastmod>
@@ -866,13 +873,6 @@
     <loc>http://hcy.asia/2013boy-op/</loc>
     
     <lastmod>2020-06-27T03:07:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/2013boy-somebody/</loc>
-    
-    <lastmod>2020-06-27T03:07:10.000Z</lastmod>
     
   </url>
   
