@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hcy.asia/fanart/</loc>
+    <loc>http://hcy.asia/allmusicdata/</loc>
     
-    <lastmod>2020-09-09T03:32:12.366Z</lastmod>
+    <lastmod>2020-09-18T02:45:39.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://hcy.asia/arttoy/</loc>
     
-    <lastmod>2020-09-08T06:06:50.591Z</lastmod>
+    <lastmod>2020-09-15T01:53:58.568Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/fanart/</loc>
+    
+    <lastmod>2020-09-09T03:32:12.366Z</lastmod>
     
   </url>
   
@@ -138,13 +145,6 @@
     <loc>http://hcy.asia/next1/</loc>
     
     <lastmod>2020-08-20T07:23:49.307Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/allmusicdata/</loc>
-    
-    <lastmod>2020-08-20T07:23:49.289Z</lastmod>
     
   </url>
   
