@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hcy.asia/news/</loc>
+    
+    <lastmod>2020-09-27T02:26:24.734Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/arttoy/</loc>
+    
+    <lastmod>2020-09-27T02:13:23.151Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/singwithme/</loc>
+    
+    <lastmod>2020-09-27T01:38:32.154Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/magazine20/</loc>
+    
+    <lastmod>2020-09-27T01:38:32.128Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hcy.asia/liveevent2020/</loc>
+    
+    <lastmod>2020-09-27T01:38:32.092Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hcy.asia/allmusicdata/</loc>
     
     <lastmod>2020-09-18T02:45:39.000Z</lastmod>
@@ -9,23 +44,9 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/arttoy/</loc>
-    
-    <lastmod>2020-09-15T01:53:58.568Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/fanart/</loc>
     
     <lastmod>2020-09-09T03:32:12.366Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/news/</loc>
-    
-    <lastmod>2020-09-08T01:43:02.199Z</lastmod>
     
   </url>
   
@@ -212,13 +233,6 @@
   </url>
   
   <url>
-    <loc>http://hcy.asia/singwithme/</loc>
-    
-    <lastmod>2020-08-18T06:51:48.715Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hcy.asia/variety-driver/</loc>
     
     <lastmod>2020-08-18T06:46:06.665Z</lastmod>
@@ -376,20 +390,6 @@
     <loc>http://hcy.asia/03-02-deer/</loc>
     
     <lastmod>2020-08-04T05:29:48.712Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/magazine20/</loc>
-    
-    <lastmod>2020-08-04T02:10:45.895Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hcy.asia/liveevent2020/</loc>
-    
-    <lastmod>2020-08-04T02:07:57.113Z</lastmod>
     
   </url>
   
