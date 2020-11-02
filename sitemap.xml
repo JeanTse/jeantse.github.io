@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hcy.asia/hcy-news/</loc>
+    <loc>https://hcy.asia/arttoy/</loc>
     
-    <lastmod>2020-10-17T08:24:25.000Z</lastmod>
+    <lastmod>2020-11-02T02:45:09.594Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/hcy-monthly-schedule/</loc>
+    
+    <lastmod>2020-11-02T02:42:43.979Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://hcy.asia/cm/</loc>
     
-    <lastmod>2020-10-17T08:20:48.000Z</lastmod>
+    <lastmod>2020-10-29T06:45:13.267Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://hcy.asia/arttoy/</loc>
+    <loc>https://hcy.asia/liveevent2018/</loc>
     
-    <lastmod>2020-10-13T08:59:21.187Z</lastmod>
+    <lastmod>2020-10-29T06:41:19.091Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/hcy-news/</loc>
+    
+    <lastmod>2020-10-17T08:24:25.000Z</lastmod>
     
   </url>
   
@@ -33,13 +47,6 @@
     <loc>https://hcy.asia/marsconcert/</loc>
     
     <lastmod>2020-10-13T08:57:20.051Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hcy.asia/hcy-monthly-schedule/</loc>
-    
-    <lastmod>2020-10-13T08:49:58.538Z</lastmod>
     
   </url>
   
@@ -516,13 +523,6 @@
     <loc>https://hcy.asia/02-05-aliens/</loc>
     
     <lastmod>2020-07-08T08:30:01.393Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hcy.asia/liveevent2018/</loc>
-    
-    <lastmod>2020-07-03T06:33:01.687Z</lastmod>
     
   </url>
   
