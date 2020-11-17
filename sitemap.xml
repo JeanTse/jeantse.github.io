@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hcy.asia/hcy-news/</loc>
+    
+    <lastmod>2020-11-17T09:01:56.847Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/liveevent2020/</loc>
+    
+    <lastmod>2020-11-17T09:01:42.355Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hcy.asia/about/</loc>
     
     <lastmod>2020-11-13T02:50:16.553Z</lastmod>
@@ -33,20 +47,6 @@
     <loc>https://hcy.asia/2013boy-somebody/</loc>
     
     <lastmod>2020-11-13T02:35:16.477Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hcy.asia/liveevent2020/</loc>
-    
-    <lastmod>2020-11-13T02:21:10.697Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hcy.asia/hcy-news/</loc>
-    
-    <lastmod>2020-11-13T02:05:14.076Z</lastmod>
     
   </url>
   
